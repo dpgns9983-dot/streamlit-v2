@@ -22,6 +22,10 @@ sensors = st.Page("sensors.py", title="센서 현황")
 # 전력 화면
 
 power = st.Page("power.py", title="전력현황")
+
+# 메뉴 화면
+menu = st.Page("menu.py", title = "메뉴현황")
+
 # 네이게이션 구성
 pg = st.navigation({
     "메인" : [home],
