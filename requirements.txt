@@ -1,0 +1,4 @@
+### pachage 이름적기
+streamlit
+pandas
+plotly
