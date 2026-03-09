@@ -29,7 +29,8 @@ menu = st.Page("menu.py", title = "메뉴현황")
 # 네이게이션 구성
 pg = st.navigation({
     "메인" : [home],
-    "분석" : [sensors,power]
+    "분석" : [sensors,power],
+    "뜬금없이" : [menu]
 })
 
 st.sidebar.write("같이 사이드바 형태입니다")
