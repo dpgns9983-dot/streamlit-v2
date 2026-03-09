@@ -6,4 +6,5 @@ st.set_page_config(
 )
 
 st.header("스트림릿 배포 테스트중")
-st.write("스티림릿 배포 해보기 - 양하준")
+st.write("집에 가서 롤 해보기 - 양하준")
+
